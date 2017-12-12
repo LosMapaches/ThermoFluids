@@ -1,0 +1,1 @@
+Non-Constant 80 MPH    Uncertainty    Constant 80 MPH    Uncertainty    Non-Constant 100 MPH    Uncertainty    Constant 100 MPH    Uncertainty	Non-Constant 80 MPH  Flap at 45^{\circ}   Uncertainty    Non-Constant 80 MMPH Non-Constant 80 MPH Flap at 45^{\circ} and Slat at 3/16"    Uncertainty
